@@ -7,5 +7,4 @@
     popschwide = [1072,5122]
     
     raking(dclus1,:stype, :schwide,poptypes,popschwide, [100, 2] )
-    #@show dclus1.data[!,dclus1.weights]
 end
